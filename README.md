@@ -12,5 +12,5 @@ RefViT aims to enhance medical image classification by:
 1. Adopting a four-stage pyramid structure to extract comprehensive features encompassing both local and global information.
 2. Leveraging parameter reuse and attention-based similarity scores through the DRA mechanism, replacing the standard MHSA to reduce parameters and computational costs.
 
-
+![RefViT Workflow](workflow.jpg)
 The code will be made available soon. 
